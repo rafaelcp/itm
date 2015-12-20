@@ -1,2 +1,2 @@
-# itm
-Instantaneous Topological Map (JavaScript)
+# itmjs
+Instantaneous Topological Map JavaScript Library
